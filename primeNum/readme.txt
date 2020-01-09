@@ -1,0 +1,1 @@
+print all prime numbers between ranges (0-m) by threads(n)
